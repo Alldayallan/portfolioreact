@@ -137,6 +137,10 @@
   margin: 10px 0 0 0;
 }
 
+.experience-container .resume-sub-heading {
+  font-weight: 900;
+}
+
 .resume-heading-description {
   font-size: 12px;
   text-align: justify;

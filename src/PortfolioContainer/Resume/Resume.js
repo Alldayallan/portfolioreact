@@ -121,28 +121,26 @@ const Resume = (props) => {
           fromDate={"2021"}
           toDate={"Present"}
         />
+        
         <div className="experience-description">
-          <span className="resume-description-text">
-            Global full lifecycle recruiter for semiconductor company in silicon valley. Hiring the best CMOS and MEMS talent, from Engineers to VP's.
+        <span className="resume-description-text">
+           - Global full lifecycle recruiter for semiconductor company in silicon valley. Hiring the best CMOS and MEMS talent, from Engineers to VP's.
           </span>
-        </div>
-        <div className="experience-description">
+          
           <span className="resume-description-text">
-            - Developed an ecommerce website for client with the dashboard for
-            managing the products, managing reviews, users, payment etc. .
-          </span>
-          <br />
-          <span className="resume-description-text">
-            - Integrated the web app with backend services to create new user
-            onboarding application with dynamic form content.{" "}
+            - Managed our recruiting coordinator and worked closely with her to help candidates move quickly through the 
+              interviewing process, without delays.
           </span>
           <br />
           <span className="resume-description-text">
-            - I stretch my mental capacity to develope UI as per the given
-            designs.
+            - Coach and befriend candidates to help them make the best decision for their current and future needs.{" "}
           </span>
           <br />
-        </div>
+          <span className="resume-description-text">
+            - Push myself to learn new technologies and write code in all flavors.
+          </span>
+          <br />
+          </div>
       </div>
     </div>,
 
@@ -164,6 +162,8 @@ const Resume = (props) => {
         </div>
       ))}
     </div>,
+
+    
 
     /* PROJECTS */
     <div className="resume-screen-container" key="projects">
