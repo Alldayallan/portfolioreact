@@ -19,7 +19,7 @@
 
 .central-form h2 {
   color: #fff;
-  font-family: "Poppins Bold";
+  font-family: 'Ubuntu', sans-serif;;
   letter-spacing: 0.2rem;
   margin-bottom: 20px;
 }
@@ -67,7 +67,7 @@ form p {
   margin-bottom: 10px;
   color: #ff5823;
   letter-spacing: 0.1rem;
-  font-family: "Poppins Bold";
+  font-family: 'Ubuntu', sans-serif;;
 }
 
 form label {

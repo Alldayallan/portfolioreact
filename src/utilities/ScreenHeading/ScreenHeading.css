@@ -14,7 +14,7 @@
 .screen-heading {
   font-size: 32px;
   color: #1f2235;
-  font-family: "Poppins Bold";
+  font-family: 'Ubuntu', sans-serif;;
 }
 .heading-seperator {
   display: flex;

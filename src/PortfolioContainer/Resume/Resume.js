@@ -144,6 +144,37 @@ const Resume = (props) => {
       </div>
     </div>,
 
+    <div className="resume-screen-container" key="work-experience">
+      <div className="experience-container">
+        <ResumeHeading
+          heading={"SiTime"}
+          subHeading={"Senior Technical Recruiter"}
+          fromDate={"2021"}
+          toDate={"Present"}
+        />
+        
+        <div className="experience-description">
+        <span className="resume-description-text">
+           - Global full lifecycle recruiter for semiconductor company in silicon valley. Hiring the best CMOS and MEMS talent, from Engineers to VP's.
+          </span>
+          
+          <span className="resume-description-text">
+            - Managed our recruiting coordinator and worked closely with her to help candidates move quickly through the 
+              interviewing process, without delays.
+          </span>
+          <br />
+          <span className="resume-description-text">
+            - Coach and befriend candidates to help them make the best decision for their current and future needs.{" "}
+          </span>
+          <br />
+          <span className="resume-description-text">
+            - Push myself to learn new technologies and write code in all flavors.
+          </span>
+          <br />
+          </div>
+      </div>
+    </div>,
+
     /* PROGRAMMING SKILLS */
     <div
       className="resume-screen-container programming-skills-container"
